@@ -9,7 +9,7 @@
             "desktop": "LeFigaro.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.3",
     "maintainer": "Arthur Talpaert <firstname.lastname_ubuntu@m4x.org>",
     "framework": "ubuntu-sdk-14.10"
 }
