@@ -5,11 +5,11 @@
     "title": "Le Figaro",
     "hooks": {
         "LeFigaro": {
-            "apparmor": "LeFigaro.apparmor",
-            "desktop": "LeFigaro.desktop"
+            "apparmor": "lefigaro.apparmor",
+            "desktop": "lefigaro.desktop"
         }
     },
-    "version": "0.3",
-    "maintainer": "Arthur Talpaert <firstname.lastname_ubuntu@m4x.org>",
+    "version": "0.4",
+    "maintainer": "Arthur Talpaert <arthur.talpaert_ubuntu@m4x.org>",
     "framework": "ubuntu-sdk-14.10"
 }
