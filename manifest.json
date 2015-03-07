@@ -1,0 +1,15 @@
+{
+    "name": "lefigaro.arthurtalpaert",
+    "description": "L'actualité politique, économique, culturelle et sociale française et internationale.",
+    "architecture": "all",
+    "title": "Le Figaro",
+    "hooks": {
+        "LeFigaro": {
+            "apparmor": "LeFigaro.apparmor",
+            "desktop": "LeFigaro.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Arthur Talpaert <firstname.lastname_ubuntu@m4x.org>",
+    "framework": "ubuntu-sdk-14.10"
+}

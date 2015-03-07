@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Le Figaro
+Comment=Webapp pour Le Figaro
+Type=Application
+Icon=logo_origami_256.png
+Exec=webapp-container --enable-back-forward --store-session-cookies --webappUrlPatterns=https?://m.lefigaro.com/* http://m.lefigaro.com %u
+Terminal=false
+X-Ubuntu-Touch=true
+
